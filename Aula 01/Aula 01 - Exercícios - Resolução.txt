@@ -1,0 +1,61 @@
+Aula 01 - Introdução à Estatística
+Exercícios.
+
+Exercício 01 – Como você faria isso?
+
+
+(a) Qual técnica de amostragem você usaria para selecionar uma amostra para o estudo? 
+Justifique sua escolha.
+
+R: Amostragem estratificada. Devido que nem todas as pesoas tem posse de um smartphone, fazendo com que
+amostragens aleatórias não satisfaçam meu objetivo. Por conglomerado cairia no mesmo problema, onde seria
+possível possíveis candidatos não terem um celular em mãos.
+
+
+(b) A técnica que você escolheu na questão anterior fornece uma amostra representativa da 
+população?
+
+R: Sim. A amostra retirada ira me fornecer dados um conjunto menor, porém estas poderão ser utilizadas para
+representar toda a população, mesmo sendo direcionada para nossos leitores.
+
+
+(c) Descreva o método para coleta de dados.
+
+R: Para certificar que meu possível leitor tenha um smartphone, será utilizado os números celulares de
+pessoas não relacionadas à companhia que ligaram para nossa empresa nos últimos 3 meses ( sem contar fixos ),
+reunindo estes dados, ligariamos para 1000 números e realizariamos o questionário. 
+
+
+(d) Identifique possíveis falhas e vieses no seu estudo.
+
+R: Ao ligarmos seria possível a pessoa não atender ao telefone. O candidato não quis responder à pesquisa.
+O número deixou de ser utilizado neste meio tempo de 3 meses. Destes 1000 números seria possível que alguns 
+contatos não sejam de leitores, e sim de pessoas que ligaram ocasionalmente. A empresa não ter um banco 
+de dados de 1000 números celulares. 
+
+
+Exercício 02 – Classificação de dados:
+
+(a) Que tipo de dados você esperaria coletar: qualitativos, quantitativos ou ambos? Por quê?
+
+R: Ambos, porquê está sendo realizada pesquisas sobre o sentimento  em utilizar seus smartphones como uma
+nova carteira, pedindo a opnião das pessoas ( Qualitativo ). E com base nessas respostas será possível formar
+números e estatísticas para tirar conclusões e realizar um gráfico geral ( Quantitativo ).
+
+
+(b) Em quais níveis de mensuração você acha que os dados do estudo estarão? Por quê?
+
+R: Nível de razão, porquê com estes dados reunidos será possível os ordenar e tirar razões dele,
+como a porcentagem de cada resposta.
+
+
+(c) Os dados coletados para o estudo representam uma população ou uma amostra?
+
+R: Os dados represetam uma amostra, que pode ser utilizada para representar uma população.
+
+
+(d) As descrições numéricas dos dados serão parâmetros ou estatísticas?
+
+R: Estatística.
+
+

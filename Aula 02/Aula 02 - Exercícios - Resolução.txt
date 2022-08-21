@@ -1,0 +1,76 @@
+Aula 02 – Estatística Descritiva 01
+Exercícios
+
+
+Exercício 01 – Para os dois histogramas ilustrados a seguir:
+
+(a) Determine o número de classes adotado para a distribuição de frequência.
+R: 7 Classes. / 7 Classes.
+
+
+(b) Determine a amplitude de classe.
+R: 10. / 53.
+
+
+(c) Estime a amplitude da distribuição.
+R: 70. / 371.
+
+
+(d) Estime a frequência da classe mais populosa.
+R: 300. / 23.
+
+
+Exercício 04 – O histograma da figura ilustra uma distribuição de frequência
+relativa do comprimento do fêmur em mulheres adultas.
+
+(a) Identifique as classes com maior frequência relativa.
+R: (f/n). Classe (6) 39 - 40 cm. / Classe (5) 38 - 39 cm.
+
+
+(b) Idem, para a menor frequência relativa.
+R: (f/n). Classe (1) 34 - 35 cm
+
+
+(c) Estime a maior e a menor frequência relativa.
+R: (f/n*amostra). Classe (6) 39-40 cm - 0,25f. / Classe (1) 34-35 cm - 0,02f.
+
+
+Nos itens a seguir, estime a proporção de mulheres cujo 
+comprimento do fêmur:
+
+
+(d) É superior a 37,5 cm e inferior a 40,5 cm.
+R:  0.48f. / 48% (?)
+
+
+(e) É superior a 40,5 cm
+R:  0.08f. / 8% (?)
+
+
+Exercício 05 – O polígono de frequências da figura ilustra uma distribuição
+de frequência das notas do MCAT (Medical College Admission Test) de
+uma amostra de calouros do curso de medicina.
+
+
+(a) Qual o tamanho da amostra?
+R:60
+
+
+(b) Identifique as classes de maior e menor
+frequências.
+R: Maior: Classe 29,5 - 32,5/ Menor:11,5 - 14,5  38,5 - 41,5. 
+
+
+(c) Estime a maior e a menor frequência
+relativa.
+R: Classe 8 0,23fr. / Classe 0,016fr.
+
+
+(d) Qual a proporção de calouros com nota 
+igual ou inferior a 16?
+R: 3f. / 0,05 fr.
+
+
+(e) Qual a proporção de calouros com nota 
+igual ou superior a 31
+R: 30f. / 0,5 fr.
