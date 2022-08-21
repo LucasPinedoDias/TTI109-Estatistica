@@ -1,4 +1,5 @@
 # Exercício 1
+from IPython.display import display
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -52,7 +53,7 @@ plt.xlabel('N° Alunos')
 plt.ylabel('Média salarial profs')
 plt.title('Salário por n° de alunos')
 plt.grid()
-plt.show()
+display()
 
 # Exercício 5
 dados5 = pd.DataFrame({'Registros': [4.3, 4.9, 5.0, 5.4, 5.8, 6.2,
@@ -66,4 +67,4 @@ registros.set(xlabel='Ano',
               title='Motos registradas entre os anos de:\n 2000 e 2011')
 registros.tick_params(axis='y', colors='blue')
 plt.grid()
-plt.show()
+display()
