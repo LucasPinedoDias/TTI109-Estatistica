@@ -57,7 +57,7 @@ classes = pd.interval_range(start=22, end=52, freq=6)
 
 print(classes)
 
-medios = [classe.mid for classe in classes]
+medios = [jose.mid for jose in classes]
 
 print(medios)
 
