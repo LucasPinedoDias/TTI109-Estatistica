@@ -1,3 +1,7 @@
+from IPython.display import display
+import pandas as pd
+import matplotlib.pyplot as plt
+
 # Exercício 01 -
 '''
 A) Histograma 2     B) Histograma 1
@@ -49,9 +53,36 @@ soma das (notas x pesos) / soma dos pesos
 '''
 
 # Exercício 06
-"""
-Pedir ajuda.
-"""
+classes = pd.interval_range(start=22, end=52, freq=6)
+
+print(classes)
+
+medios = [classe.mid for classe in classes]
+
+print(medios)
+
+freqs = [16, 2, 2, 3, 1]
+
+tabela = pd.DataFrame({'Classe': classes, 'Médios': medios, 'Frequência': freqs})
+
+display(tabela)
+
+plt.bar(tabela['Médios'], tabela['Frequência'])
+
+plt.xticks(medios)
+
+plt.yticks(range(0, 21, 2))
+
+tabela['x*f'] = tabela['Médios'] * tabela['Frequência']
+
+display(tabela)
+
+media = tabela['x*f'].sum() / tabela['Frequência'].sum()
+plt.ylabel('Frequência')
+plt.xlabel('Distância percorrida (em milhas por galão')
+plt.title('Econômia de Combustível')
+
+plt.show()
 
 # Exercício 07
 """
