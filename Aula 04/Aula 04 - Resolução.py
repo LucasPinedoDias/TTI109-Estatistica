@@ -128,6 +128,7 @@ Carro C) Média= 30,2  Mediana= 30,0  Moda= 32,0
 Deverá usar a Moda como melhor desempenho
 
 # Usando o Python'''
+
 carros = pd.DataFrame({'A': [28, 32, 28, 30, 34],
 
                        'B': [31, 29, 31, 29, 31],
