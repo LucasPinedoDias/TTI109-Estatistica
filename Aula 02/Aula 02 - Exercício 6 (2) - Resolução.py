@@ -41,12 +41,12 @@ histograma.set(xlabel='Nível de Ardência',
                      'das pimentas',
                xticks=pts_medios)
 #Número da frequência.
-barras = histograma.patches
-freqs = nova_dist_freq['Frequência']
-for barra, freq in zip(barras, freqs):
-    altura = barra.get_height()
-    histograma.text(barra.get_x() + barra.get_width() / 2,
-                    altura, freq, ha='center', va='bottom')
+#barras = histograma.patches
+#freqs = nova_dist_freq['Frequência']
+#for barra, freq in zip(barras, freqs):
+#    altura = barra.get_height()
+#    histograma.text(barra.get_x() + barra.get_width() / 2,
+#                    altura, freq, ha='center', va='bottom')
 
 import matplotlib.pyplot as plt
 
