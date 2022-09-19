@@ -1,0 +1,101 @@
+AULAS TEÓRICAS
+
+aula 1) coleta de dados , dados , estatística , população , amostra , diferença de parâmetro e estatística , 
+estatística descritiva , estatística inferencial , Inferência,dados qualitativos e quantitativos , nível ordinal , 
+nominal , intervalar e razão , diferença de estudo observacional e experimento , 
+diferença entre simulação e pesquisa , elementos-chave : controle , aleatorização e replicação, 
+falha no experimento , planejamento completamente aleatorizado , planejamento em blocos aleatorizados , replicação , 
+censo , amostragem aleatória , amostragem aleatória simples , estratificada , conglomerado , conveniência.
+
+aula 2) classes , distribuição de frequência , amplitude da classe , amplitude da distribuição , 
+construção de uma distribuição de frequência , ponto médio ,frequência relativa , frequência acumulada , 
+histograma de frequência , polígono de frequência. 
+
+aula 3) histograma de frequência relativa , gráfico de frequência acumulada (ogiva) , gráficos de pizza (setoriais) , 
+gráfico de pareto , conjunto de dados emparelhados ,  gráfico de dispersão , série temporal.
+
+aula 4) medidas de tendência central , média amostral , mediana , moda , outliers , média ponderada ,
+ média de uma distribuição de frequência , tipos de distribuição de frequência(simétrica e assimétrica).
+
+aula 5) medida de variação , amplitude , desvio padrão ,quadrados dos desvios , variância populacional, 
+desvio padrão populacional , variância amostral , desvio padrão amostral, desvio padrão para dados agrupados , 
+coeficiente de variação.
+
+aula 6) separatrizes , quartis , amplitude interquartil (usado para identificar outliers), 
+boxplots ou caixa-e-bigode(representação dos quartis), percentis, escore padrão ou escore-z.
+
+aula 7) experimento probabilístico , espaço amostral , evento simples e não simples , 
+princípio fundamental da contagem , probabilidade clássica ou teórica , probabilidade empírica ou estatística, 
+probabilidade subjetiva , amplitude das probabilidades , eventos complementares
+
+aula 8) probabilidade condicional , eventos independentes e dependentes , 
+regra da multiplicação para probabilidade A e B (eventos em sequência) , 
+regra da adição (mutuamente exclusivos ou não mutuamente exclusivos), regra da adição probabilidade de A ou B.
+
+aula 9) variável aleatória (discreta e contínua) , distribuição discreta de probabilidade , 
+média variância e desvio padrão de uma variável aleatória discreta , valor esperado. 
+
+aula 10) Distribuições Binomiais
+
+NOTEBOOKS VERSÃO PROFESSOR
+
+aula 2) 
+1 - distribuição de frequência 
+2 - distribuição de frequências
+3 - características adicionais da distribuição (pontos médios , frequência relativa e acumulada de cada classe) 
+4 - histograma de frequências
+5 - polígono de frequências
+
+aula 3) 
+1 - conjunto de dados e distribuição de frequência
+2 - histograma de frequência relativa
+3 - histograma de frequência relativa com escala vertical expressa em porcentagem
+4 - ogiva (gráfico de frequência acumulada)
+5 - gráfico de pizza
+6 - gráfico de pareto
+7 - dados emparelhados - diagrama de dispersão
+8 - dados emparelhados - séries temporais
+
+aula 4)
+1 - histograma da distribuição
+2 - medidas de tendência central da distribuição (média , mediana e moda)
+3 - média ponderada por agrupamento de dados
+4 - média de uma distribuição de frequência
+
+aula 5)
+1 - média e desvio padrão de dados agrupados
+2 - comparando dois conjuntos de dados
+
+aula 6)
+1 - análise dos quartis de uma série de dados
+2 - customizando as separatrizes
+3 - análise exploratória inicial 
+4 - análise dos quartis de um painel de dados
+5 - boxplot série de dados
+6 - boxplot painéis de dados
+7 - calculando escores-z
+
+aula 7)
+1 - identificando espaços amostrais (moeda e dado)
+2 - identificando espaços amostrais (compra do carro novo)
+3 - cálculo de probabilidades clássicas (o carro novo)
+4 - cálculo de probabilidades empíricas 
+5 - a lei dos grandes números em ação
+
+aula 8)
+1 - probabilidades condicionais (esportes)
+2 - tabela de distribuição conjunta de frequências
+3 - cálculo de probabilidades condicionais
+4 - distribuição conjunta normalizada pelas colunas
+5 - distribuição conjunta normalizada pelas linhas(índice)
+6 - probabilidades condicionais (automóveis)
+
+aula 9) 
+1 - distribuição discreta de probabilidades
+2 - média de uma distribuição discreta de probabilidades,
+3 - variância e desvio padrão de uma distribuição discreta de probabilidades.
+
+aula 10) 
+1 - Distribuição Binominal  
+2 - Parâmetros populacionais de uma distribuição binomial  
+3 - Mais probabilidades binomiais.
